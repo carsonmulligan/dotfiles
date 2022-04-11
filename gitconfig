@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = carsonmulligan45@gmail.com
+	name = carson mulligan
